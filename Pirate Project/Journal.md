@@ -1,0 +1,10 @@
+# Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+I was given code to develop an intelligent agent for a pirate game. I optimized the code so the intelligent agent could learn how to play the game most efficiently. After several enochs of learning, the agent was able to explore all possible routes of the game and maximize their rewards. I used python to develop the AI and 
+
+# Connect your learning from throughout this course to the larger field of computer science:
+## What do computer scientists do and why does it matter?
+Computer scientists design, develop, and analyze solutions for a problem that requires technical implementation. They work as a mediator and translator between clients and a computer system. It matters because computer scientists are able to take in client, stakeholder, and user requirements and concerns and develop a working product that a computer system will understand and execute.
+## How do I approach a problem as a computer scientist?
+I approach problems as a computer scientist by listening to humans first. I take note of their problems, needs, and wants. I also factor in other non-technical requirements such as user experience and external factors that may not be considered in the initial meetings. Then, I draft an application and test them multiple times with sample users to see areas of improvement. When the application is built to the best and latest abilities, I deploy it and patch it when needed.
+## What are my ethical responsibilities to the end user and the organization?
+My ethical responsibilities to the end user and organization are privacy and working in good nature. As someone who is a computer scientist, I am practically acting as a translator. I must be able to translate their needs and wants into something that the computer will understand and execute. I also must safeguard their privacy, which means protecting their data from harm. I work in the interest of helping the public and securing public safety. 
